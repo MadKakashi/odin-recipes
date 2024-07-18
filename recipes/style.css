@@ -1,0 +1,21 @@
+* {
+    background-color: #e6e0f9; 
+}
+
+h1 {
+    color: #6b5b95;
+    background-color: #ebe8cc;
+}
+
+img {
+    width : 200px;
+    border: 1px solid solid;
+    border-radius: 10px;
+    display: block;
+}
+
+h2{
+    color :#9a0b39;
+    background-color: rgb(208, 190, 238);
+    display: inline-block;
+}
